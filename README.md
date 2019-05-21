@@ -22,7 +22,7 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 ### Challenge 3
 1. On GitHub, open a Pull Request on GitHub for me to review.
-2. If your Pull Request got accepted, your changes are added to the [Hall of Fame](https://github.com/princyj/git-test/blob/master/index.html)<br>
+2. If your Pull Request got accepted, your changes are added to the repository<br>
 
 
 
